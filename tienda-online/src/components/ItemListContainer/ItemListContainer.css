@@ -1,0 +1,9 @@
+.container{
+    background-color: var(--colorFondo);
+    color: var(--colorTextoClaro);
+    height: auto;
+    box-shadow: 0 0 0 1px green;
+    margin: 10px;
+    padding: 10px;;
+}
+

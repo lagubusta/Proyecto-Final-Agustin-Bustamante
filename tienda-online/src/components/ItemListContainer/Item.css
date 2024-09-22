@@ -1,0 +1,9 @@
+.card{
+    background-color: var(--colorTextoClaro);
+    color: var(--colorFondo);
+    text-align: center;
+    height: 350px;
+    margin: 5px;
+    flex-basis: 30%;
+    box-sizing: border-box;
+}

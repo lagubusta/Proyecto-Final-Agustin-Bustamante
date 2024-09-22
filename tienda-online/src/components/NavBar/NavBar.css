@@ -1,7 +1,16 @@
 .navbar {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: end;
     list-style: none;
+    margin: 0;    
+}
+
+.itemListNav {
+    background-color: var(--colorFondo);
+    color: var(--colorTextoClaro);
+    cursor: pointer;
     margin: 0;
+    padding: 10px;
+    text-decoration: none;
 }
